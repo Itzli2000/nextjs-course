@@ -1,4 +1,3 @@
-import React from "react";
 import Button from "../UI/Button";
 import classes from "./EventItem.module.css";
 import DateIcon from "../Icons/DateIcon";
